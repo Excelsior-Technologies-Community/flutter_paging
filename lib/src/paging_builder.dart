@@ -1,4 +1,3 @@
-// lib/src/paging_builder.dart
 import 'package:flutter/material.dart';
 import 'paging_controller.dart';
 import 'paging_indicator.dart';
