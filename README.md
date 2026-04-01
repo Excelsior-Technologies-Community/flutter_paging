@@ -38,16 +38,7 @@ Add dependency in your `pubspec.yaml`
 ```
 dependencies:
   flutter_paging:
-    path: ../flutter_paging
-```
-
-Or from GitHub:
-
-```
-dependencies:
-  flutter_paging:
-    git:
-      url: https://github.com/your_username/flutter_paging.git
+    path: https://github.com/Excelsior-Technologies-Community/flutter_paging/tree/stage
 ```
 
 Then run:
