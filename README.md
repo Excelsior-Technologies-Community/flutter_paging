@@ -51,7 +51,7 @@ flutter pub get
 
 ## 🎬 Preview
 
-
+https://github.com/user-attachments/assets/b9110c29-bcac-4656-90f0-4430bce13ef6
 
 ---
 
